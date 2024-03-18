@@ -1,2 +1,2 @@
 config:
-  info: "branch: main, profile: prod, version: 01"
+  info: "branch: test, profile: prod, version: 01"
